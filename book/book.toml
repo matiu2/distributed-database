@@ -1,0 +1,6 @@
+[book]
+authors = ["Matthew Sherborne"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Distributed Database"
